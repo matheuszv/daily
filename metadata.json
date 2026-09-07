@@ -1,0 +1,6 @@
+{
+  "name": "Sistema de Objetivos e Recompensas",
+  "description": "Sistema com calendário, pontuação por metas diárias e desbloqueio de recompensas para compras na vida real integrado com MongoDB.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
